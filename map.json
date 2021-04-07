@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/Religionsraum123_16\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/religionsraum123_16\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
